@@ -1,0 +1,7 @@
+.venv/
+.env
+ChampImages/
+datasets/
+FeatureMatch/
+GameplayImages/
+TestImages/

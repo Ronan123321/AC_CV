@@ -1,0 +1,7 @@
+.venv/
+datasets/
+downloaded_datasets/
+screenshots/
+test_explicit/
+yolov5/
+.env
